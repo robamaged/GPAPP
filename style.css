@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.calculator {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px auto;
+    width: 300px;
+}
+
+label, input, select, button {
+    display: block;
+    margin: 5px 0;
+}
+
+.courses {
+    margin: 20px auto;
+    width: 300px;
+}
+
+.result {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+}
